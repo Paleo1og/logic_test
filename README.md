@@ -1,7 +1,5 @@
-logic_test
-==========
-Тест на проверку логики
-
+Тест на абстрактное логическое мышление вер. 1.0
+================================================
 Оригинал теста взят отсюда: [http://syntone.ru/psytesty/test-logicheskogo-myshleniya]
 
 Задание в рамках интенсива по Ruby от [Good Programmer](https://goodprogrammer.ru)
