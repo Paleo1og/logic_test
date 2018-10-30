@@ -4,7 +4,7 @@ logic_test
 
 Оригинал теста взят отсюда: [http://syntone.ru/psytesty/test-logicheskogo-myshleniya]
 
-Задание в рамках интенсива по Ruby от [goodprogrammer.ru]
+Задание в рамках интенсива по Ruby от [Good Programmer](https://goodprogrammer.ru)
 
 Для работы программы, необходимо установить интерпрeтатор Ruby
 
