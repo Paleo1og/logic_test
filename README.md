@@ -1,6 +1,6 @@
 Тест на абстрактное логическое мышление 
 =======================================
-Оригинал теста взят отсюда: [http://syntone.ru/psytesty/test-logicheskogo-myshleniya]
+Оригинал теста взят отсюда: http://syntone.ru/psytesty/test-logicheskogo-myshleniya
 
 Задание в рамках интенсива по Ruby от [Good Programmer](https://goodprogrammer.ru)
 
